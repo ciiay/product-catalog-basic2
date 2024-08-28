@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: product-catalog-basic2
+  annotations:
+    github.com/project-slug: ciiay/product-catalog-basic2
+spec:
+  type: other
+  lifecycle: unknown
+  owner: user:default/ciiay
